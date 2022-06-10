@@ -24,8 +24,7 @@ Batch download network pictures
 
 </div>
 
-[![](http://www.camnpr.com/TuiJianTools/images/download-image-client-server-app.png)](http://camnpr.com/TuiJianTools/html5/downloader.html)
-
+[![](./download-image-client-server-app.png)](http://camnpr.com/TuiJianTools/html5/downloader.html)
 
 ## ✨ Features
 
